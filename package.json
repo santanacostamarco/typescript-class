@@ -1,0 +1,13 @@
+{
+  "name": "typescript-class",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Marco Santana <santannacostamarco@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
